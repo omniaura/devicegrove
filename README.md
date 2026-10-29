@@ -22,4 +22,7 @@ Future work includes authenticated enrollment and transport, stale-device
 tracking, evidence history and remediation, alongside testing and independent
 security and auditor review. No current audit acceptance is claimed.
 
+See [DESIGN.md](DESIGN.md) for the proposed privacy, evidence and security
+requirements for that future work.
+
 Devicegrove is open source under the [MIT License](LICENSE).
